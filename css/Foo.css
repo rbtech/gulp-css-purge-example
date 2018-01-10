@@ -1,0 +1,32 @@
+.foo a:link {
+  color: gray;
+}
+
+.foo a:visited {
+  color: green;
+}
+
+.foo a:hover {
+  color: rebeccapurple;
+}
+
+.foo a:active {
+  color: teal;
+}
+
+.foo a:link {
+  color: gray;
+}
+
+.foo a:visited {
+  color: green;
+}
+
+.foo a:hover {
+  color: rebeccapurple;
+}
+
+.foo a:active {
+  color: teal;
+}
+
