@@ -27,6 +27,7 @@ For renaming files
 npm install gulp-rename --save-dev
 ```
 
+For purging CSS of course
 ```
 npm install gulp-css-purge --save-dev
 ```
